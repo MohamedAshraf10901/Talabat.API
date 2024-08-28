@@ -1,0 +1,79 @@
+I:\C#Assignments\APIS\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+I:\C#Assignments\APIS\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+I:\C#Assignments\APIS\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+I:\C#Assignments\APIS\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#Assignments\APIS\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+I:\C#Assignments\APIS\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+I:\C#Assignments\APIS\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+I:\C#Assignments\APIS\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+I:\C#Assignments\APIS\Talabat Solution\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+I:\C#Assignments\APIS\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+I:\C#Assignments\APIS\Talabat Solution\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Core.dll
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.dll
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.pdb
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Core.pdb
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.AssemblyReference.cache
+I:\C#Assignments\APIS\API.Session06\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat..D0FE60AD.Up2Date
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Core.dll
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.dll
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.pdb
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Core.pdb
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.AssemblyReference.cache
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat..D0FE60AD.Up2Date
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+I:\C#Assignments\APIS\API.Session07\Talabat Solution\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Core.dll
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.dll
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.pdb
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Core.pdb
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.AssemblyReference.cache
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat..D0FE60AD.Up2Date
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+I:\C#Assignments\APIS\API.Session07 - Copy\Talabat Solution\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Core.dll
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.dll
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Repository.pdb
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\bin\Debug\net6.0\Talabat.Core.pdb
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.AssemblyReference.cache
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat..D0FE60AD.Up2Date
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+I:\C#Assignments\APIS\API.Session09\Talabat Solution\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll

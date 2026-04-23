@@ -1,6 +1,6 @@
 # 🛒 Talabat - E-Commerce REST API
 
-A production-ready **RESTful API** for an e-commerce platform inspired by Talabat, built with **ASP.NET Core (.NET 6)** following **Clean Architecture** principles.
+A production-ready **RESTful API** for an e-commerce platform inspired by Talabat, built with **ASP.NET Core (.NET 8)** following **Clean Architecture** principles.
 
 ---
 
@@ -66,9 +66,9 @@ Talabat is a backend REST API that powers a full e-commerce experience. It handl
 
 | Layer | Technology |
 |-------|------------|
-| Framework | ASP.NET Core Web API (.NET 6) |
+| Framework | ASP.NET Core Web API (.NET 8) |
 | Language | C# |
-| ORM | Entity Framework Core 6 |
+| ORM | Entity Framework Core 8 |
 | Database (Business) | Microsoft SQL Server |
 | Database (Identity) | Microsoft SQL Server (separate DB) |
 | Cache / Basket | Redis (StackExchange.Redis) |
@@ -207,69 +207,11 @@ Talabat Solution/
 
 ### Prerequisites
 
-- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server)
 - [Redis](https://redis.io/download) (running on `localhost:6379`)
 - [Stripe Account](https://stripe.com) (for payment features)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/) or VS Code
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd "Talabat Solution"
-   ```
-
-2. **Configure settings**
-
-   Open `Talabat.APIs/appsettings.json` and update:
-   ```json
-   {
-     "ConnectionStrings": {
-       "DefaultConnection": "Server=.;Database=TalabatDb;Trusted_Connection=True;TrustServerCertificate=True",
-       "IdentityConnection": "Server=.;Database=TalabatDb.Identity;Trusted_Connection=True;TrustServerCertificate=True",
-       "Redis": "localhost"
-     },
-     "JWT": {
-       "Key": "YourStrongSecretKey",
-       "ValidIssuer": "https://localhost:7079",
-       "ValidAudience": "YourAudience",
-       "DurationInDays": "2"
-     },
-     "StripeKeys": {
-       "Publishablekey": "pk_test_...",
-       "Secretkey": "sk_test_..."
-     },
-     "FrontEndBaseURL": "http://localhost:4200"
-   }
-   ```
-
-3. **Run the application**
-   ```bash
-   cd Talabat.APIs
-   dotnet run
-   ```
-
-   > The application automatically applies pending migrations and seeds initial data (products, brands, categories, and a default user) on startup.
-
-4. **Access Swagger UI**
-
-   Navigate to `https://localhost:7079/swagger` to explore and test all API endpoints.
-
----
-
-## ⚙️ Configuration
-
-| Setting | Description |
-|---------|-------------|
-| `DefaultConnection` | SQL Server connection for business data |
-| `IdentityConnection` | SQL Server connection for identity/auth data |
-| `Redis` | Redis connection string for basket storage |
-| `JWT:Key` | Secret key for signing JWT tokens |
-| `JWT:DurationInDays` | Token expiry duration |
-| `StripeKeys:Secretkey` | Stripe secret key for payment processing |
-| `FrontEndBaseURL` | Allowed CORS origin for the frontend app |
 
 ---
 

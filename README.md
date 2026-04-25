@@ -13,7 +13,6 @@ A production-ready **RESTful API** for an e-commerce platform inspired by Talaba
 - [API Endpoints](#api-endpoints)
 - [Database Schema](#database-schema)
 - [Getting Started](#getting-started)
-- [Configuration](#configuration)
 - [Project Structure](#project-structure)
 
 ---
